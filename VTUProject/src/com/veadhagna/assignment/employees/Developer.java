@@ -1,4 +1,4 @@
-package com.gayatri.assignment.employees;
+package com.veadhagna.assignment.employees;
 
 public class Developer extends Employee {
 	private String language;

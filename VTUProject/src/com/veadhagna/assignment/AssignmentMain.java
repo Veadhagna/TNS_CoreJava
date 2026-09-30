@@ -1,8 +1,8 @@
-package com.gayatri.assignment;
+package com.veadhagna.assignment;
 
-import com.gayatri.assignment.employees.Developer;
-import com.gayatri.assignment.employees.Manager;
-import com.gayatri.assignment.utilities.EmployeeUtilities;
+import com.veadhagna.assignment.employees.Developer;
+import com.veadhagna.assignment.employees.Manager;
+import com.veadhagna.assignment.utilities.EmployeeUtilities;
 
 public class AssignmentMain {
 

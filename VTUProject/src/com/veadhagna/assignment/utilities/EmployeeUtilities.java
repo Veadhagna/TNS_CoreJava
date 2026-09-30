@@ -1,8 +1,8 @@
-package com.gayatri.assignment.utilities;
+package com.veadhagna.assignment.utilities;
 
-import com.gayatri.assignment.employees.Developer;
-import com.gayatri.assignment.employees.Employee;
-import com.gayatri.assignment.employees.Manager;
+import com.veadhagna.assignment.employees.Developer;
+import com.veadhagna.assignment.employees.Employee;
+import com.veadhagna.assignment.employees.Manager;
 
 public class EmployeeUtilities extends Developer  {
  Developer d;
